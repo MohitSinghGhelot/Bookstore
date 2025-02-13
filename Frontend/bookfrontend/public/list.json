@@ -1,0 +1,84 @@
+[
+    {
+      "id":1,
+      "name":"Story Book",
+      "title":"Lorem jfdkf bmkgfjgf gdkfgjtngt gmkrsrmfktr kmgmt",
+      "price":"0",
+      "category":"Free",
+      "image":"https://img.freepik.com/free-photo/stack-various-books-table_1252-656.jpg?ga=GA1.1.2147341463.1737382567&semt=ais_incoming"
+    },
+    {
+        "id":2,
+        "name":"Comedy Book",
+        "title":"Lorem jfdkf bmkgfjgf gdkfgjtngt gmkrsrmfktr kmgmt",
+        "price":"0",
+        "category":"Paid",
+        "image":"https://img.freepik.com/free-photo/pile-paperback-books-table_93675-129054.jpg?ga=GA1.1.2147341463.1737382567&semt=ais_incoming"
+      },
+      {
+        "id":3,
+        "name":"Sport Book",
+        "title":"Lorem jfdkf bmkgfjgf gdkfgjtngt gmkrsrmfktr kmgmt",
+        "price":"0",
+        "category":"Free",
+        "image":"https://img.freepik.com/free-photo/stack-various-books-table_1252-656.jpg?ga=GA1.1.2147341463.1737382567&semt=ais_incoming"
+      },
+      {
+        "id":4,
+        "name":"Play Book",
+        "title":"Lorem jfdkf bmkgfjgf gdkfgjtngt gmkrsrmfktr kmgmt",
+        "price":"0",
+        "category":"Paid",
+        "image":"https://img.freepik.com/free-photo/pile-paperback-books-table_93675-129054.jpg?ga=GA1.1.2147341463.1737382567&semt=ais_incoming"
+      },
+      {
+        "id":5,
+        "name":"Language Book",
+        "title":"Lorem jfdkf bmkgfjgf gdkfgjtngt gmkrsrmfktr kmgmt",
+        "price":"0",
+        "category":"Free",
+        "image":"https://img.freepik.com/free-photo/stack-various-books-table_1252-656.jpg?ga=GA1.1.2147341463.1737382567&semt=ais_incoming"
+      },
+      {
+        "id":6,
+        "name":"Setout Book",
+        "title":"Lorem jfdkf bmkgfjgf gdkfgjtngt gmkrsrmfktr kmgmt",
+        "price":"0",
+        "category":"Piad",
+        "image":"https://img.freepik.com/free-photo/pile-paperback-books-table_93675-129054.jpg?ga=GA1.1.2147341463.1737382567&semt=ais_incoming"
+      },
+      {
+        "id":7,
+        "name":"Story Book",
+        "title":"Lorem jfdkf bmkgfjgf gdkfgjtngt gmkrsrmfktr kmgmt",
+        "price":"0",
+        "category":"Free",
+        "image":"https://img.freepik.com/free-photo/pile-paperback-books-table_93675-129054.jpg?ga=GA1.1.2147341463.1737382567&semt=ais_incoming"
+      },
+      {
+        "id":8,
+        "name":"Entertainment Book",
+        "title":"Lorem jfdkf bmkgfjgf gdkfgjtngt gmkrsrmfktr kmgmt",
+        "price":"0",
+        "category":"Free",
+        "image":"https://img.freepik.com/free-photo/stack-various-books-table_1252-656.jpg?ga=GA1.1.2147341463.1737382567&semt=ais_incoming"
+      },
+      {
+        "id":9,
+        "name":"Tale Book",
+        "title":"Lorem jfdkf bmkgfjgf gdkfgjtngt gmkrsrmfktr kmgmt",
+        "price":"0",
+        "category":"Paid",
+        "image":"https://img.freepik.com/free-photo/stack-various-books-table_1252-656.jpg?ga=GA1.1.2147341463.1737382567&semt=ais_incoming"
+      },
+      {
+        "id":10,
+        "name":"Coding Book",
+        "title":"Lorem jfdkf bmkgfjgf gdkfgjtngt gmkrsrmfktr kmgmt",
+        "price":"0",
+        "category":"Paid",
+        "image":"https://img.freepik.com/free-photo/pile-paperback-books-table_93675-129054.jpg?ga=GA1.1.2147341463.1737382567&semt=ais_incoming"
+      }
+  
+  
+]
