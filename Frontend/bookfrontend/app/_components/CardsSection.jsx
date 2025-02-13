@@ -17,7 +17,7 @@ export default function CardsSection() {
       const getsbooks =async()=> {
   
         try {
-          const res = await axios.get("http://localhost:8000/books")
+          const res = await axios.get("https://bookstore-backend-kc1u.onrender.com/books")
           setBooks(res.data.filter((item) => item.category === "Free"))
         } catch (error) {
           console.log(error)
