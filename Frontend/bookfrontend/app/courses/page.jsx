@@ -19,7 +19,7 @@ const Page = () => {
 
     const fetchBooks = async () => {
       try {
-        const res = await axios.get("http://localhost:8000/books");
+        const res = await axios.get("https://bookstore-backend-kc1u.onrender.com/books");
         setBooks(res.data);
       } catch (error) {
         console.log(error);
