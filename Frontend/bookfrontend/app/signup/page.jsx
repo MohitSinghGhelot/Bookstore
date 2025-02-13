@@ -44,7 +44,7 @@ const Page = () => {
         } else {
             setErrors({});
             try {
-                const res = await axios.post('http://localhost:8000/user/signup', formData);
+                const res = await axios.post('https://bookstore-backend-kc1u.onrender.com/user/signup', formData);
                 if (res.status === 200 || res.status === 201) {
 
                     const user = res.data.user; 
